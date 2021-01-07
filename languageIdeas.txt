@@ -1,0 +1,17 @@
+python
+java
+c++
+c
+c#
+kotlin
+haskell
+lisp
+lua
+perl
+"manual"
+excel
+javascript
+ruby
+nim
+scala
+go
