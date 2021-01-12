@@ -1,4 +1,4 @@
-file = io.open("input.txt", "rb")
+file = io.open("input2.txt", "rb")
 local content =file:read "*a"
 local linesTable = {}
 local total = 0

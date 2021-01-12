@@ -6,7 +6,7 @@ use File::Slurp ;
 
 # open my $file, "<", "input.txt"
 #     or die "Can't open file $_";
-my $content = read_file("input.txt");
+my $content = read_file("input1.txt");
 # $content = "()())";
 # say $content;
 # close $file;
